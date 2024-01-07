@@ -1,0 +1,18 @@
+Coefficients are:
+a0: 0.916596
+a1: -0.00229022
+a2: 2.5602e-006
+a3: 7.54209e-010
+
+Predicted Maximum Pressure : 0.860952 and the Percentage Error : 0.696184
+Predicted Maximum Pressure : 0.80858 and the Percentage Error : 0.909345
+Predicted Maximum Pressure : 0.759549 and the Percentage Error : 0.45233
+Predicted Maximum Pressure : 0.71393 and the Percentage Error : 0.149624
+Predicted Maximum Pressure : 0.671795 and the Percentage Error : 0.718839
+Predicted Maximum Pressure : 0.633213 and the Percentage Error : 0.669772
+Predicted Maximum Pressure : 0.598256 and the Percentage Error : 0.210314
+Predicted Maximum Pressure : 0.566994 and the Percentage Error : 0.177195
+Predicted Maximum Pressure : 0.539497 and the Percentage Error : 0.461739
+Predicted Maximum Pressure : 0.515838 and the Percentage Error : 0.417415
+Predicted Maximum Pressure : 0.496086 and the Percentage Error : 0.183993
+Predicted Maximum Pressure : 0.480311 and the Percentage Error : 0.483543

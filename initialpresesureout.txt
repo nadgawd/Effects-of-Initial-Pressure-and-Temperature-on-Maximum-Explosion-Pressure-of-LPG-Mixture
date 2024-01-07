@@ -1,0 +1,27 @@
+a1 : 8.08318
+a0 : 0.12468
+
+Predicted Maximum Pressure : 0.932998 and the Percentage Error : 9.12258
+Predicted Maximum Pressure : 1.09466 and the Percentage Error : 3.97704
+Predicted Maximum Pressure : 1.25633 and the Percentage Error : 3.35959
+Predicted Maximum Pressure : 1.41799 and the Percentage Error : 3.53818
+Predicted Maximum Pressure : 1.57965 and the Percentage Error : 3.08881
+Predicted Maximum Pressure : 1.74132 and the Percentage Error : 2.93668
+Predicted Maximum Pressure : 2.54963 and the Percentage Error : 2.38767
+Predicted Maximum Pressure : 3.35795 and the Percentage Error : 2.07198
+Predicted Maximum Pressure : 4.16627 and the Percentage Error : 2.03941
+Predicted Maximum Pressure : 4.97459 and the Percentage Error : 1.50148
+Predicted Maximum Pressure : 5.78291 and the Percentage Error : 1.17049
+Predicted Maximum Pressure : 6.59122 and the Percentage Error : 0.891218
+Predicted Maximum Pressure : 7.39954 and the Percentage Error : 0.674027
+Predicted Maximum Pressure : 8.20786 and the Percentage Error : 0.500297
+Predicted Maximum Pressure : 9.01618 and the Percentage Error : 0.358159
+Predicted Maximum Pressure : 9.8245 and the Percentage Error : 0.239727
+Predicted Maximum Pressure : 10.6328 and the Percentage Error : 0.139494
+Predicted Maximum Pressure : 11.4411 and the Percentage Error : 0.0536009
+Predicted Maximum Pressure : 12.2494 and the Percentage Error : 0.0208295
+Predicted Maximum Pressure : 13.0578 and the Percentage Error : 0.0859613
+Predicted Maximum Pressure : 13.8661 and the Percentage Error : 0.150616
+Predicted Maximum Pressure : 14.6744 and the Percentage Error : 0.2013
+Predicted Maximum Pressure : 15.4827 and the Percentage Error : 0.246637
+Predicted Maximum Pressure : 16.291 and the Percentage Error : 0.287445
